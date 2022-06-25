@@ -1,5 +1,5 @@
 ## EX.NO: 05 <br>
-## DATE:
+## DATE: 30-04-2022
 ## <p align="center">IMAGE TRANSFORMATION</p>
 
 ## Aim:
